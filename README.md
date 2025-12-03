@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PokePong
 ## Kurze Beschreinumg
 ### Ein klasisches PongSpiel, das von Pokemon gespielt wird
@@ -26,3 +27,21 @@ screenshots![Screenshot 2023-11-10 164506.png](Screenshot%202023-11-10%20164506.
 
 
 
+=======
+
+# PokePong
+
+A Java game built with Processing, inspired by classic Pong.
+
+## Features
+- Object-oriented design
+- Interactive user input
+- Graphical interface and game logic implementation
+
+## Technologies
+- Java
+- Processing
+
+## Purpose
+Demonstrates programming skills, OOP, and basic game development experience.
+>>>>>>> 9f9fc5050876fae25d3ebd8448ceed1f13eb9edb
